@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-v4-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgeneva2007-tech/Tailwind-v4-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gdgeneva2007-tech/Tailwind-v4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gdgeneva2007-tech/Tailwind-v4-boilerplate#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.0",
+    "tailwindcss": "^4.2.0"
+  }
+}
